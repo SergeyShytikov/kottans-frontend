@@ -48,23 +48,34 @@
 
 ## Git Basics <span id="task0"></span>
 
--
--
--
--
+- before this course, git for me was like magic, I could not distinguish github, gitlab and git itself
+- I was very surprised that you can flexibly configure the terminal and work with git through aliases
+- I knew that Torvalds was a genius, but so
 
 ### Version Control with Git - Udacity course
 
+- an excellent course to take the first steps in learning git
+
 ### learngitbranching.js.org
+
+- branch visualization is very cool, it helps to understand a lot
+- was surprised that git pull is magic from fetch and merge
 
 ### Communicating using Markdown
 
+- md it's so usefull format for education and notes new knowledges
+
 ### Typing Club
 
-<details><summary>Results</summary>
-<p>
+- this is really good, I try to practice a couple of new exercises every day.
 
-![Screenshot-image-link]()
+<details><summary>Results</summary>
+  <p>
+
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_git_basic/Udacity%20Git.png)
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_git_basic/github%20markdown.png)
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_git_basic/learnbranching2.png)
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_git_basic/learngitbranching1.png)
 
 </p>
 </details>
