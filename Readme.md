@@ -79,3 +79,107 @@
 
 </p>
 </details>
+
+## Linux CLI and Networking <span id="task1"></span>
+
+-
+-
+-
+
+###
+
+-
+-
+
+###
+
+-
+- <details><summary>Results</summary>
+  <p>
+  ![Screenshot-image-link]()
+  </p>
+  </details>
+
+## VCS(hello gitty), GitHub and Collaboration <span id="task2"></span>
+
+-
+-
+-
+
+###
+
+-
+-
+
+###
+
+-   <details><summary>Results</summary>
+    <p>
+    ![Screenshot-image-link]()
+    </p>
+    </details>
+
+  ***
+
+### Front-End Basics
+
+---
+
+## Intro to HTML & CSS <span id="task3"></span>
+
+-
+-
+-
+
+###
+
+-
+-
+
+###
+
+-  <details><summary>Results</summary>
+   <p>
+   ![Screenshot-image-link]()
+   </p>
+   </details>
+
+## Responsive Web Design <span id="task4"></span>
+
+-
+-
+-
+
+###
+
+-
+-
+
+###
+
+-
+- <details><summary>Results</summary>
+  <p>
+  ![Screenshot-image-link]()
+  </p>
+  </details>
+
+## HTML & CSS Practice <span id="task5"></span>
+
+-
+-
+-
+
+###
+
+-
+-
+
+###
+
+-
+- <details><summary>Results</summary>
+  <p>
+  ![Screenshot-image-link]()
+  </p>
+  </details>
