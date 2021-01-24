@@ -55,50 +55,63 @@
 ### Version Control with Git - Udacity course
 
 - an excellent course to take the first steps in learning git
+<details><summary>Results</summary>
+  <p>
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_git_basic/Udacity%20Git.png)
+</p>
+</details>
 
 ### learngitbranching.js.org
 
 - branch visualization is very cool, it helps to understand a lot
 - was surprised that git pull is magic from fetch and merge
+<details><summary>Results</summary>
+  <p>
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_git_basic/learnbranching2.png)
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_git_basic/learngitbranching1.png)
+</p>
+</details>
 
 ### Communicating using Markdown
 
 - md it's so usefull format for education and notes new knowledges
+<details><summary>Results</summary>
+<p>
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_git_basic/github%20markdown.png)
+</p>
+</details>
 
 ### Typing Club
 
 - this is really good, I try to practice a couple of new exercises every day.
 
-<details><summary>Results</summary>
-  <p>
-
-![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_git_basic/Udacity%20Git.png)
-![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_git_basic/github%20markdown.png)
-![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_git_basic/learnbranching2.png)
-![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_git_basic/learngitbranching1.png)
-
-</p>
-</details>
+---
 
 ## Linux CLI and Networking <span id="task1"></span>
 
--
--
--
-
-###
-
--
--
-
-###
-
--
+- it was an important course for me as after that I changed Windows to Fedora,
+  and at work I switched to a MacBook and the terminal became a full-fledged tool for working with files
+- the grep command power was really surprised for me.
 - <details><summary>Results</summary>
   <p>
   ![Screenshot-image-link]()
   </p>
   </details>
+
+### HTTP
+
+- it was very useful information about what the http contains and how it works, that besides 404 there are many other error codes, about how the http differs from the https
+
+#### Basic command line Hexlet
+
+- I liked that course because it explain many nuances and details, and so important how quit form Vim
+<details><summary>Results</summary>
+  <p>
+  ![Screenshot-image-link]()
+  </p>
+  </details>
+
+---
 
 ## VCS(hello gitty), GitHub and Collaboration <span id="task2"></span>
 
@@ -113,13 +126,11 @@
 
 ###
 
--   <details><summary>Results</summary>
-    <p>
-    ![Screenshot-image-link]()
-    </p>
-    </details>
-
-  ***
+<details><summary>Results</summary>
+  <p>
+  ![Screenshot-image-link]()
+  </p>
+  </details>
 
 ### Front-End Basics
 
@@ -138,11 +149,11 @@
 
 ###
 
--  <details><summary>Results</summary>
-   <p>
-   ![Screenshot-image-link]()
-   </p>
-   </details>
+- <details><summary>Results</summary>
+  <p>
+  ![Screenshot-image-link]()
+  </p>
+  </details>
 
 ## Responsive Web Design <span id="task4"></span>
 
