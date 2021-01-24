@@ -56,8 +56,10 @@
 
 - an excellent course to take the first steps in learning git
 <details><summary>Results</summary>
-  <p>
+<p>
+
 ![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_git_basic/Udacity%20Git.png)
+
 </p>
 </details>
 
@@ -66,9 +68,11 @@
 - branch visualization is very cool, it helps to understand a lot
 - was surprised that git pull is magic from fetch and merge
 <details><summary>Results</summary>
-  <p>
+<p>
+
 ![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_git_basic/learnbranching2.png)
 ![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_git_basic/learngitbranching1.png)
+
 </p>
 </details>
 
@@ -77,7 +81,9 @@
 - md it's so usefull format for education and notes new knowledges
 <details><summary>Results</summary>
 <p>
+
 ![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_git_basic/github%20markdown.png)
+
 </p>
 </details>
 
@@ -89,14 +95,21 @@
 
 ## Linux CLI and Networking <span id="task1"></span>
 
+### Linux Survival
+
 - it was an important course for me as after that I changed Windows to Fedora,
   and at work I switched to a MacBook and the terminal became a full-fledged tool for working with files
 - the grep command power was really surprised for me.
-- <details><summary>Results</summary>
-  <p>
-  ![Screenshot-image-link]()
-  </p>
-  </details>
+<details><summary>Results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_linux_cli_http/quiz1.png)
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_linux_cli_http/quiz2.png)
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_linux_cli_http/quiz3.png)
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_linux_cli_http/quiz4.png)
+
+</p>
+</details>
 
 ### HTTP
 
@@ -106,10 +119,13 @@
 
 - I liked that course because it explain many nuances and details, and so important how quit form Vim
 <details><summary>Results</summary>
-  <p>
-  ![Screenshot-image-link]()
-  </p>
-  </details>
+<p>
+
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_linux_cli_http/Hexlet_1.png)
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_linux_cli_http/Hexlet_2.png)
+
+</p>
+</details>
 
 ---
 
@@ -149,8 +165,8 @@
 
 ###
 
-- <details><summary>Results</summary>
-  <p>
+<details><summary>Results</summary>
+<p>
   ![Screenshot-image-link]()
   </p>
   </details>
@@ -168,7 +184,6 @@
 
 ###
 
--
 - <details><summary>Results</summary>
   <p>
   ![Screenshot-image-link]()
