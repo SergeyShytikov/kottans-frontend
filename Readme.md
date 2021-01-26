@@ -189,31 +189,35 @@
 #### freecodecamp.com
 
 - cool, great, nice place for basic learning programming
+<details><summary>Results</summary>
 <p>
 
-![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_html_css_intro/Certificate%20codecademy_CSS.png)
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_html_css_intro/freecodecamp.png)
 
 </p>
 </details>
 
 ## Responsive Web Design <span id="task4"></span>
 
--
--
--
+- I think responsive with semantic layers it's most important points in modern site buildings
+<details><summary>Results</summary>
+<p>
 
-###
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_responsive_web_design/udacity.png)
 
--
--
+</p>
+</details>
 
-###
+### Flexbox Froggy
 
-- <details><summary>Results</summary>
-  <p>
-  ![Screenshot-image-link]()
-  </p>
-  </details>
+- funy and intresting game, it give supervisual information about each flexbox properties
+<details><summary>Results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_responsive_web_design/Foggy.png)
+
+</p>
+</details>
 
 ## HTML & CSS Practice <span id="task5"></span>
 
@@ -221,16 +225,10 @@
 -
 -
 
-###
+<details><summary>Results</summary>
+<p>
 
--
--
+![Screenshot-image-link]()
 
-###
-
--
-- <details><summary>Results</summary>
-  <p>
-  ![Screenshot-image-link]()
-  </p>
-  </details>
+</p>
+</details>
