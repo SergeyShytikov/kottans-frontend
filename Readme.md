@@ -135,7 +135,7 @@
 <details><summary>Results</summary>
 <p>
 
-![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/maintask_git_collaboration/udacity.png)
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_git_collaboration/udacity.png)
 
 </p>
 </details>
