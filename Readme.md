@@ -131,22 +131,16 @@
 
 ## VCS(hello gitty), GitHub and Collaboration <span id="task2"></span>
 
--
--
--
-
-###
-
--
--
-
-###
-
+- a deeper dive into git, especially after the basics of command line and linux added useful knowledge.
 <details><summary>Results</summary>
-  <p>
-  ![Screenshot-image-link]()
-  </p>
-  </details>
+<p>
+
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/maintask_git_collaboration/udacity.png)
+
+</p>
+</details>
+
+---
 
 ### Front-End Basics
 
@@ -154,22 +148,41 @@
 
 ## Intro to HTML & CSS <span id="task3"></span>
 
--
--
--
+### Udacity - Intro to HTML & CSS
 
-###
-
--
--
-
-###
-
+- "figure" and "figcapture" was surprised
+- sematic layers it's important
 <details><summary>Results</summary>
 <p>
-  ![Screenshot-image-link]()
-  </p>
-  </details>
+
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_html_css_intro/udacity.png)
+
+</p>
+</details>
+
+### Codecademy - Learn HTML
+
+- everything was new for me, besides html, head, body tags.
+- creating forms it like doing art
+<details><summary>Results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_html_css_intro/Certificate%20codecademy_HTML.png)
+
+</p>
+</details>
+
+### Codecademy - Learn CSS
+
+- css seems so complicated technology, I think it takes a lot of time for leanig well CSS
+- grid and flex so magic, I'll use it as much as I can
+<details><summary>Results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_html_css_intro/Certificate%20codecademy_CSS.png)
+
+</p>
+</details>
 
 ## Responsive Web Design <span id="task4"></span>
 
