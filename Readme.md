@@ -184,6 +184,18 @@
 </p>
 </details>
 
+#### Extra
+
+#### freecodecamp.com
+
+- cool, great, nice place for basic learning programming
+<p>
+
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_html_css_intro/Certificate%20codecademy_CSS.png)
+
+</p>
+</details>
+
 ## Responsive Web Design <span id="task4"></span>
 
 -
