@@ -236,7 +236,7 @@
 <details><summary>Results</summary>
 <p>
 
-![Screenshot-image-link]()
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_js_basic/udacity_JS_basic.png)
 
 </p>
 </details>
