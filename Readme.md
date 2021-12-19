@@ -210,7 +210,7 @@
 
 ### Flexbox Froggy
 
-- funy and intresting game, it give supervisual information about each flexbox properties
+- funny and intresting game, it give supervisual information about each flexbox properties
 <details><summary>Results</summary>
 <p>
 
@@ -220,6 +220,14 @@
 </details>
 
 ## HTML & CSS Practice <span id="task5"></span>
+
+- finally I finished this task.
+- I thought it would be easier, but in practice it turned out to be a bit more complicated.
+- It was very interesting to figure out the checkboxes and the correct margins.
+
+[Demo](https://sergeyshytikov.github.io/popupDemo/) / [Code](https://github.com/SergeyShytikov/popupDemo)
+
+## JavaScript Basics <span id="task6"></span>
 
 -
 -
