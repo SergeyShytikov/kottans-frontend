@@ -18,7 +18,7 @@
 
 - [x] **4.** [Responsive Web Design](#task4)
 
-- [ ] **5.** [HTML & CSS Practice](#task5)
+- [x] **5.** [HTML & CSS Practice](#task5)
 
 - [ ] **6.** [JavaScript Basics](#task6)
 
@@ -229,8 +229,9 @@
 
 ## JavaScript Basics <span id="task6"></span>
 
--
--
+- Udacity course so soft for first steps in JavaScript.
+- I finally understood difference between function declaration and function expression. And find out about array of arrays.
+- [freecodecamp.org](http://freecodecamp.org) is awesome place for learning programming
 -
 
 <details><summary>Results</summary>
