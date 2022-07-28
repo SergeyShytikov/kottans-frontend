@@ -20,7 +20,7 @@
 
 - [x] **5.** [HTML & CSS Practice](#task5)
 
-- [ ] **6.** [JavaScript Basics](#task6)
+- [x] **6.** [JavaScript Basics](#task6)
 
 - [ ] **7.** [Document Object Model](#task7) - practice
 
@@ -232,12 +232,30 @@
 - Udacity course so soft for first steps in JavaScript.
 - I finally understood difference between function declaration and function expression. And find out about array of arrays.
 - [freecodecamp.org](http://freecodecamp.org) is awesome place for learning programming
--
 
 <details><summary>Results</summary>
 <p>
 
 ![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_js_basic/udacity_JS_basic.png)
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_js_basic/11from2_%20freeCodeCamp.org.png)
+
+</p>
+</details>
+
+## Document Object Model <span id="task7"></span>
+
+- understanding DOM is the key to the proper use of JS.
+- After completing this course, I begin to understand how powerful JS can be.
+- [freecodecamp.org](http://freecodecamp.org) as usual offers quite difficult, but interesting tasks
+- I liked the task of converting binary code into a sentence the most
+- Practice ahead
+[Demo](#) / [Code](#)
+
+<details><summary>Results</summary>
+<p>
+
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_js_dom/Screenshot%202022-07-23%20at%2013.03.32.png)
+![Screenshot-image-link](https://github.com/SergeyShytikov/kottans-frontend/blob/main/task_js_dom/Screenshot%202022-07-24%20at%2021-18-48%20freeCodeCamp.org.png)
 
 </p>
 </details>
