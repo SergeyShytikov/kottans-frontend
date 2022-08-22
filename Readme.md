@@ -26,17 +26,17 @@
 
 ### Advanced Topics
 
-- [ ] **8.** [Building a Tiny JS World (pre-OOP)](#task8) - practice
+- [x] **8.** [Building a Tiny JS World (pre-OOP)](#task8) - practice
 
 - [ ] **9.** [Object oriented JS](#task9) - practice
 
 - [ ] **10.** [OOP exercise](#task10) - practice
 
-- [ ] **11.** [Offline Web Applications](#task11)
+- [ ] **11.** [Offline Web Applications](#task11) - optional
 
 - [ ] **12.** [Memory pair game](#task12) — real project!
 
-- [ ] **13.** [Website Performance Optimization](#task13)
+- [ ] **13.** [Website Performance Optimization](#task13) - optional
 
 - [ ] **14.** [Friends App](#task14) - real project!
 
@@ -248,8 +248,10 @@
 - After completing this course, I begin to understand how powerful JS can be.
 - [freecodecamp.org](http://freecodecamp.org) as usual offers quite difficult, but interesting tasks
 - I liked the task of converting binary code into a sentence the most
-- Practice ahead
-[Demo](#) / [Code](#)
+- The practical task opened up great possibilities for JS to create and manipulate dom elements.
+  Now design it is not my strong skill, but i was trully exited about JS
+
+[Demo](https://sergeyshytikov.github.io/js-dom-task/) / [Code](https://github.com/SergeyShytikov/js-dom-task)
 
 <details><summary>Results</summary>
 <p>
@@ -259,3 +261,19 @@
 
 </p>
 </details>
+---
+
+### Advanced Topics
+
+---
+## Building a Tiny JS World (pre-OOP) <span id="task8"></span>
+
+- A quite small, but tricky task. Thinking in object-oriented paradigm
+- Thinking in the OOP paradigm, extends the mind and allows us to understand how else abstractions can be manipulated
+
+[Demo](https://sergeyshytikov.github.io/a-tiny-JS-world/) / [Code](https://github.com/SergeyShytikov/a-tiny-JS-world/blob/master/index.js)
+
+
+## Object oriented JS <span id="task9"></span>
+-
+[Demo](#) / [Code](#)
