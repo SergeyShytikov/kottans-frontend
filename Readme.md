@@ -261,11 +261,13 @@
 
 </p>
 </details>
+
 ---
 
 ### Advanced Topics
 
 ---
+
 ## Building a Tiny JS World (pre-OOP) <span id="task8"></span>
 
 - A quite small, but tricky task. Thinking in object-oriented paradigm
