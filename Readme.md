@@ -275,5 +275,5 @@
 
 
 ## Object oriented JS <span id="task9"></span>
--
+- [Codewars](https://www.codewars.com/users/SergeyShytikov)
 [Demo](#) / [Code](#)
