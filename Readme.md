@@ -22,15 +22,15 @@
 
 - [x] **6.** [JavaScript Basics](#task6)
 
-- [ ] **7.** [Document Object Model](#task7) - practice
+- [x] **7.** [Document Object Model](#task7) - practice
 
 ### Advanced Topics
 
 - [x] **8.** [Building a Tiny JS World (pre-OOP)](#task8) - practice
 
-- [ ] **9.** [Object oriented JS](#task9) - practice
+- [ ] **9.** [Object oriented JS](#task9) - practice (_in progress_)
 
-- [ ] **10.** [OOP exercise](#task10) - practice
+- [ ] **10.** [OOP exercise](#task10) - practice (_in progress_)
 
 - [ ] **11.** [Offline Web Applications](#task11) - optional
 
@@ -275,7 +275,18 @@
 
 [Demo](https://sergeyshytikov.github.io/a-tiny-JS-world/) / [Code](https://github.com/SergeyShytikov/a-tiny-JS-world/blob/master/index.js)
 
-
 ## Object oriented JS <span id="task9"></span>
+
 - [Codewars](https://www.codewars.com/users/SergeyShytikov)
-[Demo](#) / [Code](#)
+- To finish a small game in js seemed like a simple task,
+  but it took a lot of effort in my case to do it.
+  OOP is not easy for beginners to understand, but once practiced and mastered it
+  gives a powerful tool in any developer's arsenal.
+- Inheritance or composition?
+
+[Demo](https://sergeyshytikov.github.io/frontend-nanodegree-arcade-game/) / [Code](https://github.com/SergeyShytikov/frontend-nanodegree-arcade-game/tree/serhiishy_game)
+
+## OOP exercise <span id="task10"></span>
+
+- _in progress_
+  [Demo](#) / [Code](#)
