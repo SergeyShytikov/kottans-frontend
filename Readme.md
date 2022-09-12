@@ -1,4 +1,4 @@
-# Kottans Frontend 2021 content
+# Kottans Frontend course
 
 ---
 
